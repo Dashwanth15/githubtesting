@@ -2,4 +2,6 @@
 
 demo of github 
 <br>
-testing gethub
+testing github
+
+editing README.me file from vs code
